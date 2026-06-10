@@ -1,7 +1,7 @@
 ## Hi, I am Chyngyz 👋
 
 # 💫 About Me:
-🧑‍🎓 Student of IT college<br>⚙️ Backend developer<br>😶‍🌫️ Full-stack developer<br>🧑‍💻 I can create full useable web site<br>🌸 With beautiful interface<br>🤯 Even microservices<br>
+🧑‍🎓 Student of IT college<br>⚙️ Backend developer<br>😶‍🌫️ Full-stack developer<br>🧑‍💻 I can create full useable web-sites<br>🌸 With beautiful interface<br>🤯 Even microservices<br>
 
 
 ## 🌐 Socials:
